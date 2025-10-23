@@ -14,3 +14,7 @@ This project uses HTML5 Canvas to generate a spiral cyclone of particles from yo
 ## 📦 Setup
 
 Clone the repo and open `index.html` in your browser. Thats it.
+
+# 👀 Preview
+
+![screenshot](https://github.com/mesygir/spiral-particle-cyclone/blob/main/screenshot.png?raw=true)
